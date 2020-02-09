@@ -6,6 +6,10 @@
 
 - [Introduction to automata theory, languages and computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf)
 
+## Recurses
+
+- [JFLAP](http://www.jflap.org/)
+
 ## Bibliography
 
 - [Automata Theory](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2004-05/automata-theory/index.html)
