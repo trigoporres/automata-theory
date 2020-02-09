@@ -2,7 +2,9 @@
 
 ## Books
 
-- [Introducción a la teoría de autómatas, gramáticas y lenguajes](https://www.librosuned.com/LU22482/Introducci%C3%B3n-a-la-teor%C3%ADa-de-aut%C3%B3matas,-gram%C3%A1ticas-y-lenguajes-formales.aspx)
+- [Introducción a la teoría de autómatas, gramáticas y lenguajes UNED](https://www.librosuned.com/LU22482/Introducci%C3%B3n-a-la-teor%C3%ADa-de-aut%C3%B3matas,-gram%C3%A1ticas-y-lenguajes-formales.aspx)
+
+- [Introduction to automata theory, languages and computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf)
 
 ## Bibliography
 
