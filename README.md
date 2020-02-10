@@ -6,6 +6,8 @@
 
 - [Introduction to automata theory, languages and computation](https://mcdtu.files.wordpress.com/2017/03/introduction-to-automata-theory.pdf)
 
+- [Introduction to Automata Theory, Languages, and Computation 3rd Edition](http://ce.sharif.edu/courses/94-95/1/ce414-2/resources/root/Text%20Books/Automata/John%20E.%20Hopcroft,%20Rajeev%20Motwani,%20Jeffrey%20D.%20Ullman-Introduction%20to%20Automata%20Theory,%20Languages,%20and%20Computations-Prentice%20Hall%20(2006).pdf)
+
 ## Recurses
 
 - [JFLAP](http://www.jflap.org/)
