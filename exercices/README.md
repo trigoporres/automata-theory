@@ -2,7 +2,7 @@
 
 Examples of the syllabus of the Uned course, made with the JFLAP program.
 
-# Exercices
+## Exercices
 
 - [Binary chains containing substrings 01](./substrings01.jff)
 
